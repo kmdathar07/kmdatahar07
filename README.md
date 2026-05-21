@@ -5,9 +5,9 @@ BCA Student Building Full-Stack & AI-Powered Web Projects 🚀
 </h3>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;AI+Project+Builder;React+%7C+FastAPI+%7C+JavaScript;Modern+UI%2FUX+Designer;Open-Source+Learner"
-    alt="Typing SVG"
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;AI+Project+Builder;React+%7C+FastAPI+%7C+JavaScript;Modern+UI%2FUX+Designer;Open-Source+Learner" 
+    alt="Typing SVG" 
   />
 </p>
 
@@ -62,23 +62,23 @@ Java-based registration management project.
 # 🌐 Connect With Me
 
 <p align="center">
+  <a href="https://github.com/kmdathar07" target="_blank">
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+      width="70"
+      height="70"
+    />
+  </a>
 
-<a href="https://github.com/kmdathar07">
-  <img
-    src="https://skillicons.dev/icons?i=github"
-    width="65"
-  />
-</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/mohammed-athar-k-129512405/">
-  <img
-    src="https://skillicons.dev/icons?i=linkedin"
-    width="65"
-  />
-</a>
-
+  <a href="https://www.linkedin.com/in/mohammed-athar-k-129512405/" target="_blank">
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+      width="70"
+      height="70"
+    />
+  </a>
 </p>
 
 ---
