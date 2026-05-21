@@ -7,7 +7,7 @@ BCA Student Building Full-Stack & AI-Powered Web Projects 🚀
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;AI+Project+Builder;React+%7C+FastAPI+%7C+JavaScript;Open-Source+Learner;Building+Modern+UI%2FUX+Projects"
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;AI+Project+Builder;React+%7C+FastAPI+%7C+JavaScript;Open-Source+Learner;Building+Modern+UI%2FUX+Projects"
     alt="Typing SVG"
   />
 </p>
@@ -20,8 +20,8 @@ BCA Student Building Full-Stack & AI-Powered Web Projects 🚀
 - 💻 Building real-world full-stack web applications
 - 🤖 Exploring AI-powered projects and automation
 - ⚡ Improving skills in React, FastAPI & JavaScript
-- 🎨 Passionate about creating modern UI/UX experiences
-- 🌱 Learning by building projects every day
+- 🎨 Passionate about modern UI/UX experiences
+- 🌱 Learning continuously through projects
 
 ---
 
@@ -57,10 +57,10 @@ Real-time AI-powered translation web application.
 Location-based Qibla direction finder web app.
 
 ## 🔹 Event Registration System
-Java-based event registration management system.
+Java-based registration management system.
 
 ## 🔹 Portfolio Website
-Modern personal portfolio with GitHub integration.
+Modern portfolio website with GitHub integration.
 
 ---
 
@@ -69,13 +69,13 @@ Modern personal portfolio with GitHub integration.
 <p align="center">
 
 <a href="https://github.com/kmdathar07" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" width="70" />
+<img src="https://skillicons.dev/icons?i=github" width="70"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/mohammed-athar-k-129512405/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="70" />
+<img src="https://skillicons.dev/icons?i=linkedin" width="70"/>
 </a>
 
 </p>
@@ -85,17 +85,17 @@ Modern personal portfolio with GitHub integration.
 # 📊 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=kmdathar07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"
-    height="180"
-  />
+<img
+src="https://github-readme-stats.vercel.app/api?username=kmdathar07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"
+height="180"
+/>
 </p>
 
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kmdathar07&theme=tokyonight"
-    width="95%"
-  />
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kmdathar07&theme=tokyonight"
+width="95%"
+/>
 </p>
 
 ---
@@ -113,11 +113,11 @@ Modern personal portfolio with GitHub integration.
 # ✨ Developer Quote
 
 <p align="center">
-  <i>"Building projects, learning continuously, and improving one step every day."</i>
+<i>"Building projects, learning continuously, and improving one step every day."</i>
 </p>
 
 ---
 
 <p align="center">
-  ⭐ Thanks for visiting my profile ⭐
+⭐ Thanks for visiting my profile ⭐
 </p>
