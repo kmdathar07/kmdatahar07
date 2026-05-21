@@ -46,26 +46,20 @@ BCA Student Building Full-Stack & AI-Powered Web Projects 🚀
 ---
 
 # 📊 GitHub Activity
-
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=kmdathar07&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-  />
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmdathar07&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-  />
+<img 
+src="https://github-readme-streak-stats.herokuapp.com/?user=kmdathar07&theme=tokyonight&hide_border=true"
+/>
+
 </p>
 
-<br>
-
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=kmdathar07&theme=tokyo-night&hide_border=true&area=true"
-    width="95%"
-  />
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kmdathar07&theme=tokyonight"
+/>
+
 </p>
 
 ---
@@ -84,11 +78,10 @@ BCA Student Building Full-Stack & AI-Powered Web Projects 🚀
 
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/kmdathar07/kmdathar07/output/github-contribution-grid-snake-dark.svg"
+    src="https://raw.githubusercontent.com/kmdathar07/kmdathar07/output/github-contribution-grid-snake.svg"
     alt="Snake animation"
   />
 </p>
-
 ---
 
 # 🧠 Currently Exploring
