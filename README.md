@@ -28,16 +28,7 @@ BCA Student Building Full-Stack & AI-Powered Web Projects 🚀
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=js" />
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=fastapi" />
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=java" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=js,react,python,fastapi,html,css,java,git,github,vscode" />
 
 </p>
 
@@ -63,24 +54,12 @@ Java-based registration management project.
 
 <p align="center">
 
-<a href="https://github.com/kmdathar07" target="_blank">
-  <img
-    src="https://img.icons8.com/ios-glyphs/90/ffffff/github.png"
-    width="65"
-    height="65"
-    alt="GitHub"
-  />
+<a href="https://github.com/kmdathar07">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/mohammed-athar-k-129512405/" target="_blank">
-  <img
-    src="https://img.icons8.com/color/96/linkedin.png"
-    width="65"
-    height="65"
-    alt="LinkedIn"
-  />
+<a href="https://www.linkedin.com/in/mohammed-athar-k-129512405/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
@@ -90,19 +69,25 @@ Java-based registration management project.
 # 📊 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=kmdathar07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"
-    height="180"
-    alt="GitHub Stats"
-  />
+
+<img 
+height="180em"
+src="https://github-readme-stats.vercel.app/api?username=kmdathar07&show_icons=true&theme=tokyonight&hide_border=true"
+/>
+
+<img 
+height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmdathar07&layout=compact&theme=tokyonight&hide_border=true"
+/>
+
 </p>
 
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kmdathar07&theme=tokyonight"
-    width="95%"
-    alt="GitHub Contribution Graph"
-  />
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kmdathar07&theme=tokyonight"
+/>
+
 </p>
 
 ---
@@ -120,7 +105,7 @@ Java-based registration management project.
 # ✨ Developer Quote
 
 <p align="center">
-  <i>"Consistency and projects build real developers."</i>
+<i>"Consistency and projects build real developers."</i>
 </p>
 
 ---
