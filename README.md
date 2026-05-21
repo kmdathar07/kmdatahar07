@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mohammed Athar K</h1>
 
 <h3 align="center">
-BCA Student building full-stack and AI-powered web projects 🚀
+BCA Student Building Full-Stack & AI-Powered Web Projects 🚀
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Development;AI-Powered+Projects;React+%7C+FastAPI+%7C+JavaScript;Building+Real-World+Projects;Always+Learning+New+Things+🚀" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full-Stack+Development;AI-Powered+Projects;React+%7C+FastAPI+%7C+JavaScript;Building+Real-World+Applications;Always+Learning+New+Things+🚀" 
+    alt="Typing SVG" 
+  />
 </p>
 
 ---
@@ -16,14 +19,15 @@ BCA Student building full-stack and AI-powered web projects 🚀
 - 💻 Building real-world full-stack web applications
 - 🤖 Exploring AI-powered projects and automation
 - ⚡ Improving skills in React, FastAPI & JavaScript
-- 🚀 Passionate about creating modern UI/UX experiences
+- 🎨 Passionate about modern UI/UX design
+- 🚀 Learning through hands-on projects
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,python,fastapi,html,css,java,git,github,vscode,firebase" />
+  <img src="https://skillicons.dev/icons?i=js,react,python,fastapi,html,css,java,firebase,git,github,vscode" />
 </p>
 
 ---
@@ -50,12 +54,12 @@ Personal portfolio showcasing projects and development journey.
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/kmdathar07">
-    <img src="https://skillicons.dev/icons?i=github" />
+  <a href="https://github.com/kmdathar07" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="50" />
   </a>
 
-  <a href="https://www.linkedin.com/in/mohammed-athar-k-129512405/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://www.linkedin.com/in/mohammed-athar-k-129512405/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
   </a>
 </p>
 
@@ -64,15 +68,24 @@ Personal portfolio showcasing projects and development journey.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kmdathar07&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=kmdathar07&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" 
+    height="180"
+  />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kmdathar07&theme=tokyonight" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=kmdathar07&theme=tokyonight&hide_border=true&border_radius=10" 
+    height="180"
+  />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmdathar07&layout=compact&theme=tokyonight" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmdathar07&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" 
+    height="180"
+  />
 </p>
 
 ---
@@ -90,13 +103,18 @@ Personal portfolio showcasing projects and development journey.
 ## ✨ Developer Quote
 
 <p align="center">
-  <i>"Building projects, learning continuously, and improving one step every day."</i>
+  <i>
+    "Building projects, learning continuously, and improving one step every day."
+  </i>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kmdathar07&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img 
+    src="https://komarev.com/ghpvc/?username=kmdathar07&label=Profile%20Views&color=0e75b6&style=flat" 
+    alt="Profile Views" 
+  />
 </p>
 
 <p align="center">
