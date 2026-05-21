@@ -6,8 +6,8 @@ BCA Student Building Full-Stack & AI-Powered Web Projects 🚀
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;AI+Project+Builder;React+%7C+FastAPI+%7C+JavaScript;Modern+UI%2FUX+Designer;Open-Source+Learner"
-    alt="Typing SVG"
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+Projects+Builder;Modern+UI%2FUX+Explorer;React+%7C+FastAPI+%7C+Python"
+    alt="Typing Animation"
   />
 </p>
 
@@ -16,50 +16,31 @@ BCA Student Building Full-Stack & AI-Powered Web Projects 🚀
 # 🚀 About Me
 
 - 🎓 BCA Student at VIT
-- 💻 Building real-world full-stack applications
+- 💻 Building real-world full-stack web applications
 - 🤖 Exploring AI-powered projects & automation
-- ⚡ Learning React, FastAPI & JavaScript
-- 🎨 Passionate about modern UI/UX
-- 🌱 Growing through projects every day
+- ⚡ Improving skills in React, FastAPI & JavaScript
+- 🌱 Learning modern UI/UX and scalable backend systems
 
 ---
 
 # 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,python,fastapi,html,css,java,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,js,python,fastapi,java,html,css,mysql,git,github,vscode" />
 </p>
-
----
-
-# 📌 Featured Projects
-
-## 🔹 Re-Po Generator
-AI Resume + Portfolio Builder using React & FastAPI.
-
-## 🔹 LinguaFlow
-AI-powered real-time translation platform.
-
-## 🔹 Qibla Finder
-Smart location-based Qibla direction web app.
-
-## 🔹 Event Registration System
-Java-based registration management project.
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="center">
+  <a href="https://github.com/kmdathar07">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
-<a href="https://github.com/kmdathar07">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/mohammed-athar-k-129512405/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -67,19 +48,45 @@ Java-based registration management project.
 # 📊 GitHub Activity
 
 <p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=kmdathar07&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+  />
 
-<img 
-src="https://github-readme-streak-stats.herokuapp.com/?user=kmdathar07&theme=tokyonight&hide_border=true"
-/>
-
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmdathar07&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+  />
 </p>
 
+<br>
+
 <p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=kmdathar07&theme=tokyo-night&hide_border=true&area=true"
+    width="95%"
+  />
+</p>
 
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kmdathar07&theme=tokyonight"
-/>
+---
 
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=kmdathar07&theme=tokyonight&no-frame=true&row=1&column=6"
+  />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/kmdathar07/kmdathar07/output/github-contribution-grid-snake-dark.svg"
+    alt="Snake animation"
+  />
 </p>
 
 ---
@@ -89,19 +96,21 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?u
 - Full-Stack Development
 - AI-Powered Applications
 - Modern UI/UX Design
-- Open Source Projects
-- Real-World Problem Solving
+- FastAPI Backend Systems
+- Automation & Productivity Tools
 
 ---
 
-# ✨ Developer Quote
+# 📈 Profile Views
 
 <p align="center">
-<i>"Consistency and projects build real developers."</i>
+  <img 
+    src="https://komarev.com/ghpvc/?username=kmdathar07&label=Profile%20Views&color=0e75b6&style=flat"
+  />
 </p>
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile ⭐
+  💻 Building • Learning • Growing 🚀
 </p>
