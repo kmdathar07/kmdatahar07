@@ -1,59 +1,78 @@
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=Mohammed%20Athar%20K&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20AI%20Explorer%20•%20Modern%20UI%2FUX&descAlignY=58"
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:111827,100:1E293B&text=Mohammed%20Athar%20K&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20AI%20Explorer%20•%20Modern%20UI%2FUX&descAlignY=58"
   />
 </p>
 
 <h1 align="center">Hey 👋, I'm Mohammed Athar K</h1>
 
 <h3 align="center">
-🚀 Full-Stack Developer • AI Explorer • UI/UX Enthusiast
+💎 Full-Stack Developer • 🤖 AI Explorer • 🧊 Modern UI/UX Builder
 </h3>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Real-World+Projects;React+%7C+FastAPI+%7C+Python;AI+Projects+Explorer;Modern+UI%2FUX+Designer;Always+Learning+New+Technologies"
+    src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=600&size=28&duration=2800&pause=1000&color=60A5FA&center=true&vCenter=true&width=950&lines=Building+Modern+Digital+Experiences;React+•+FastAPI+•+Python;Startup+Style+Full-Stack+Projects;Creating+Elegant+%26+Scalable+Apps;Always+Learning+New+Technologies"
     alt="Typing Animation"
   />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kmdathar07&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
-  
-  <img src="https://img.shields.io/github/followers/kmdathar07?style=for-the-badge&color=blueviolet"/>
-  
-  <img src="https://img.shields.io/github/stars/kmdathar07?style=for-the-badge&color=orange"/>
+
+<img src="https://img.shields.io/badge/Focus-FullStack-blueviolet?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Building-Modern%20Projects-111827?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Exploring-AI%20Systems-2563EB?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=kmdathar07&style=for-the-badge&color=2563EB"/>
+
+<img src="https://img.shields.io/github/followers/kmdathar07?style=for-the-badge&color=111827"/>
+
 </p>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212257464-84b68444-0d81-46db-a338-7ec50ba1b1dd.gif" width="100%"/>
-
-# 🧊 About Me
-
-<img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
-
-```diff
-+ 🎓 BCA Student at VIT
-+ 🚀 Building modern full-stack applications
-+ 🤖 Exploring AI-powered systems & automation
-+ 💻 Passionate about futuristic UI/UX
-+ ⚡ Learning scalable backend architectures
-+ 🌱 Improving React, FastAPI & Python skills
-+ 🎯 Goal: Become an elite full-stack developer
-```
-
-<br><br><br><br><br><br><br><br><br>
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDB0NTR4MXFkOGNtd3J2ZnQ4bzM2b2FmdGF6OG9iMXd5a2lyNnBkYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="100%"/>
+</p>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212257464-84b68444-0d81-46db-a338-7ec50ba1b1dd.gif" width="100%"/>
+# 🧊 About Me
+
+<img align="right" width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+
+```yaml
+name: Mohammed Athar K
+role: Full-Stack Developer
+education: BCA @ VIT
+focus: Modern Web Applications
+currently_learning:
+  - React
+  - FastAPI
+  - Backend Systems
+  - AI Integrations
+interests:
+  - UI/UX Design
+  - Automation
+  - Scalable Applications
+goal: Build premium real-world products
+```
+
+<br><br><br><br><br><br><br><br>
+
+---
 
 # ⚒️ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,js,ts,python,fastapi,mongodb,mysql,java,html,css,git,github,vscode,figma&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,js,ts,python,fastapi,mongodb,mysql,java,html,css,tailwind,git,github,vscode,figma&theme=dark"/>
 
 </p>
 
@@ -66,14 +85,16 @@
 
 <td width="50%">
 
-## 📄 Resume Portfolio Generator
+## 💼 Resume Portfolio Generator
 
-Modern Resume & Portfolio Builder with responsive UI and export support.
+Elegant Resume & Portfolio Builder with modern UI and export support.
 
-🔹 React  
-🔹 JavaScript  
-🔹 Responsive Design  
-🔹 Modern UI
+```yaml
+Tech:
+  - React
+  - JavaScript
+  - Responsive Design
+```
 
 </td>
 
@@ -81,12 +102,14 @@ Modern Resume & Portfolio Builder with responsive UI and export support.
 
 ## 🌐 LinguaFlow
 
-Real-time language translation and communication platform.
+Modern language translation platform with clean UI experience.
 
-🔹 Full-Stack  
-🔹 API Integration  
-🔹 AI Features  
-🔹 Interactive UI
+```yaml
+Features:
+  - Real-time Translation
+  - API Integration
+  - Interactive Interface
+```
 
 </td>
 
@@ -98,11 +121,14 @@ Real-time language translation and communication platform.
 
 ## 🕌 QiblaFinder
 
-Location-based Islamic utility app with smart features.
+Smart Islamic utility app with modern location-based tools.
 
-🔹 JavaScript  
-🔹 Location API  
-🔹 Modern Design
+```yaml
+Includes:
+  - Qibla Direction
+  - Responsive Design
+  - Location API
+```
 
 </td>
 
@@ -110,11 +136,14 @@ Location-based Islamic utility app with smart features.
 
 ## 🗳️ Online Voting System
 
-Secure voting platform with authentication and management system.
+Secure and scalable voting platform for academic environments.
 
-🔹 Java  
-🔹 MySQL  
-🔹 CRUD Operations
+```yaml
+Built With:
+  - Java
+  - MySQL
+  - Authentication
+```
 
 </td>
 
@@ -123,33 +152,29 @@ Secure voting platform with authentication and management system.
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212257464-84b68444-0d81-46db-a338-7ec50ba1b1dd.gif" width="100%"/>
-
 # 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/kmdathar07">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/mohammed-athar-k-129512405">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:kmdathar07@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-DC2626?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://mohammed-athar-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </p>
 
 ---
-
-<img src="https://user-images.githubusercontent.com/74038190/212257464-84b68444-0d81-46db-a338-7ec50ba1b1dd.gif" width="100%"/>
 
 # 📊 GitHub Analytics
 
@@ -172,16 +197,14 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?u
 <p align="center">
 
 <img 
-src="https://github-readme-activity-graph.vercel.app/graph?username=kmdathar07&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=00F7FF&point=FFFFFF&area=true"
+src="https://github-readme-activity-graph.vercel.app/graph?username=kmdathar07&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=60A5FA&line=38BDF8&point=FFFFFF&area=true"
 />
 
 </p>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212257464-84b68444-0d81-46db-a338-7ec50ba1b1dd.gif" width="100%"/>
-
-# 🏆 GitHub Trophies
+# 🏆 Achievements
 
 <p align="center">
 
@@ -193,21 +216,24 @@ src="https://github-profile-trophy.vercel.app/?username=kmdathar07&theme=algolia
 
 ---
 
-# 💻 Developer Terminal
+# 💻 Developer Console
 
 ```bash
 > Initializing Mohammed Athar K...
 
-> Loading Full-Stack Skills...
+> Loading Frontend Systems...
 ████████████████████ 100%
 
-> Loading AI Systems...
+> Loading Backend Services...
 ████████████████████ 100%
 
 > Loading UI/UX Experience...
 ████████████████████ 100%
 
-> STATUS: BUILDING FUTURE-READY PROJECTS 🚀
+> Exploring AI Integrations...
+████████████████████ 100%
+
+> STATUS: BUILDING PREMIUM DIGITAL PRODUCTS 🚀
 ```
 
 ---
@@ -215,30 +241,31 @@ src="https://github-profile-trophy.vercel.app/?username=kmdathar07&theme=algolia
 # 🧠 Currently Exploring
 
 - Full-Stack Development
-- AI-Powered Applications
-- Backend Architecture
+- Scalable Backend Architecture
 - Modern UI/UX Systems
-- Automation & Productivity Tools
+- AI-Powered Applications
+- Startup-Style Product Design
 
 ---
 
-# ⚡ Fun Fact
+# ⚡ Fun Logic
 
-```yaml
-while(alive) {
-   eat();
-   sleep();
-   code();
-   repeat();
-}
+```python
+while True:
+    learn()
+    build()
+    improve()
+    repeat()
 ```
 
 ---
 
 <p align="center">
-  💻 Building • Learning • Growing 🚀
+💎 Minimal • 🤖 Intelligent • 🧊 Modern
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:111827,100:1E293B"
+  />
 </p>
