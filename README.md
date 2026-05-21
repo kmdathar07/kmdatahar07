@@ -43,18 +43,18 @@ Java-based registration management system.
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/kmdatahar07
-- LinkedIn: (Add later)
+- LinkedIn: https://www.linkedin.com/in/mohammed-athar-k-129512405/
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kmdatahar07&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kmdathar07&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kmdatahar07&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kmdathar07&theme=tokyonight" />
 </p>
 
 ---
