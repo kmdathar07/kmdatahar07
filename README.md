@@ -6,8 +6,8 @@ BCA Student Building Full-Stack & AI-Powered Web Projects 🚀
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Development;AI-Powered+Projects;React+%7C+FastAPI+%7C+JavaScript;Learning+and+Building+Every+Day+🚀" 
-    alt="Typing SVG" 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI-Powered+Projects;React+%7C+FastAPI+%7C+JavaScript;Learning+and+Building+Every+Day+🚀" 
+    alt="Typing SVG"
   />
 </p>
 
@@ -57,11 +57,13 @@ Personal portfolio showcasing projects and development journey.
 <p align="center">
 
 <a href="https://github.com/kmdathar07">
-  <img src="https://skillicons.dev/icons?i=github" height="50"/>
+  <img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
 
+&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/mohammed-athar-k-129512405/">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
 
 </p>
@@ -72,7 +74,7 @@ Personal portfolio showcasing projects and development journey.
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=kmdathar07&show_icons=true&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=kmdathar07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" 
     height="180"
   />
 </p>
@@ -86,7 +88,7 @@ Personal portfolio showcasing projects and development journey.
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=kmdathar07&theme=tokyo-night&hide_border=true" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kmdathar07&theme=tokyonight" 
     width="95%"
   />
 </p>
