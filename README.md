@@ -7,7 +7,7 @@ BCA Student Building Full-Stack & AI-Powered Web Projects 🚀
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;AI+Project+Builder;React+%7C+FastAPI+%7C+JavaScript;Open-Source+Learner;Building+Modern+UI%2FUX+Projects"
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;AI+Project+Builder;React+%7C+FastAPI+%7C+JavaScript;Open-Source+Learner;Building+Modern+UI%2FUX+Projects"
     alt="Typing SVG"
   />
 </p>
@@ -60,25 +60,33 @@ Location-based Qibla direction finder web app.
 Java-based registration management system.
 
 ## 🔹 Portfolio Website
-Modern portfolio website with GitHub integration.
+Modern personal portfolio website.
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="center">
+<table align="center">
+<tr>
+<td align="center">
 
-<a href="https://github.com/kmdathar07" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" width="70"/>
+<a href="https://github.com/kmdathar07">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
 
-<a href="https://www.linkedin.com/in/mohammed-athar-k-129512405/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="70"/>
+<td width="80"></td>
+
+<td align="center">
+
+<a href="https://www.linkedin.com/in/mohammed-athar-k-129512405/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="70"/>
 </a>
 
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
