@@ -27,9 +27,7 @@ BCA Student Building Full-Stack & AI-Powered Web Projects 🚀
 # 🛠️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=js,react,python,fastapi,html,css,java,git,github,vscode" />
-
+  <img src="https://skillicons.dev/icons?i=js,react,python,fastapi,html,css,java,git,github,vscode" />
 </p>
 
 ---
@@ -58,6 +56,8 @@ Java-based registration management project.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/mohammed-athar-k-129512405/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -71,13 +71,7 @@ Java-based registration management project.
 <p align="center">
 
 <img 
-height="180em"
-src="https://github-readme-stats.vercel.app/api?username=kmdathar07&show_icons=true&theme=tokyonight&hide_border=true"
-/>
-
-<img 
-height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmdathar07&layout=compact&theme=tokyonight&hide_border=true"
+src="https://github-readme-streak-stats.herokuapp.com/?user=kmdathar07&theme=tokyonight&hide_border=true"
 />
 
 </p>
