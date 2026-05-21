@@ -5,10 +5,7 @@ BCA Student Building Full-Stack & AI-Powered Web Projects 🚀
 </h3>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI-Powered+Projects;React+%7C+FastAPI+%7C+JavaScript;Learning+and+Building+Every+Day+🚀" 
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;AI-Powered+Projects;React+%7C+FastAPI+%7C+JavaScript;Modern+UI%2FUX+Design;Learning+and+Building+Every+Day+🚀" />
 </p>
 
 ---
@@ -19,7 +16,8 @@ BCA Student Building Full-Stack & AI-Powered Web Projects 🚀
 - 💻 Building real-world full-stack web applications
 - 🤖 Exploring AI-powered projects and automation
 - ⚡ Improving skills in React, FastAPI & JavaScript
-- 🎨 Passionate about modern UI/UX development
+- 🎨 Passionate about modern UI/UX experiences
+- 🚀 Consistently learning and building projects
 
 ---
 
@@ -27,7 +25,17 @@ BCA Student Building Full-Stack & AI-Powered Web Projects 🚀
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=js,react,python,fastapi,html,css,java,git,github,vscode,firebase" />
+<img src="https://skillicons.dev/icons?i=js" height="55"/>
+<img src="https://skillicons.dev/icons?i=react" height="55"/>
+<img src="https://skillicons.dev/icons?i=python" height="55"/>
+<img src="https://skillicons.dev/icons?i=fastapi" height="55"/>
+<img src="https://skillicons.dev/icons?i=html" height="55"/>
+<img src="https://skillicons.dev/icons?i=css" height="55"/>
+<img src="https://skillicons.dev/icons?i=java" height="55"/>
+<img src="https://skillicons.dev/icons?i=git" height="55"/>
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="55"/>
+<img src="https://skillicons.dev/icons?i=firebase" height="55"/>
 
 </p>
 
@@ -36,19 +44,19 @@ BCA Student Building Full-Stack & AI-Powered Web Projects 🚀
 # 📌 Featured Projects
 
 ## 🔹 Re-Po Generator
-AI Resume + Portfolio Generator built using React & FastAPI.
+AI Resume + Portfolio Generator using React & FastAPI.
 
 ## 🔹 LinguaFlow
 Real-time AI-powered translation web application.
 
 ## 🔹 Qibla Finder
-Location-based Qibla direction finder web app.
+Location-based Qibla direction finder application.
 
 ## 🔹 Event Registration System
-Java-based event registration management system.
+Java-based registration management system.
 
 ## 🔹 Portfolio Website
-Personal portfolio showcasing projects and development journey.
+Modern personal portfolio with GitHub integration.
 
 ---
 
@@ -57,13 +65,13 @@ Personal portfolio showcasing projects and development journey.
 <p align="center">
 
 <a href="https://github.com/kmdathar07">
-  <img src="https://skillicons.dev/icons?i=github" height="55"/>
+  <img src="https://skillicons.dev/icons?i=github" height="60"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/mohammed-athar-k-129512405/">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="60"/>
 </a>
 
 </p>
@@ -74,21 +82,14 @@ Personal portfolio showcasing projects and development journey.
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=kmdathar07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" 
+    src="https://github-readme-stats.vercel.app/api?username=kmdathar07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
     height="180"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=kmdathar07&theme=tokyonight&hide_border=true" 
-    height="180"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kmdathar07&theme=tokyonight" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kmdathar07&theme=tokyonight"
     width="95%"
   />
 </p>
@@ -108,7 +109,7 @@ Personal portfolio showcasing projects and development journey.
 # ✨ Developer Quote
 
 <p align="center">
-
-<i>"Building projects, learning continuously, and improving one step every day."</i>
+  
+### *"Building projects, learning continuously, and improving one step every day."*
 
 </p>
