@@ -74,16 +74,6 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?u
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/kmdathar07/kmdathar07/output/github-contribution-grid-snake.svg"
-    alt="Snake animation"
-  />
-</p>
----
-
 # 🧠 Currently Exploring
 
 - Full-Stack Development
